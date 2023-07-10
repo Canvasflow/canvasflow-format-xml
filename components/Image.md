@@ -16,10 +16,10 @@ the text component use `HTML` syntax and should be wrapped in `<p>` tags.
 ## Properties
 | Property                                                          | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
-| `animation` <br/> _[ComponentAnimation](./ComponentAnimation.md)_ | Applies animation to the component                          |
-| `device` <br/>_[[Canvasflow Component Device \| Device]]_         | Controls in which device the component should be displayed. |
-| `caption` <br/>_[Caption](../format/CaptionDescriptor.md)_        | Control if a caption should be displayed in the content     |
-| `credit` <br/>_[Credit](../format/CreditDescriptor.md)_           | Control if a credit should be displayed in the content      |
+| `animation` <br/> _[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
+| `device` <br/>_[Device](../format/DeviceDescriptor.md)_           | Controls in which device the component should be displayed. |
+| `caption` <br/>_[Caption](../format/CaptionDescriptor.md)_        | Control if a `caption` should be displayed in the content   |
+| `credit` <br/>_[Credit](../format/CreditDescriptor.md)_           | Control if a `credit` should be displayed in the content    |
 
 _If the image is inside a gallery component the properties `animation` and `device` are going to be ignored_
 
