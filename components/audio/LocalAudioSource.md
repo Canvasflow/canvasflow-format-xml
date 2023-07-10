@@ -1,4 +1,4 @@
-# Local Source Component
+# Local Audio Source Component
 
 This is a component that specifies which file is going to be used to load the 
 audio component, it can be a local file like an `.mp3` or a remote address to 
