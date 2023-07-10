@@ -1,2 +1,0 @@
-# Canvasflow Component Caption \| Caption
-
