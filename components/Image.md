@@ -1,7 +1,6 @@
 # Image
 
-This is a component that is used to display text content. The content inside 
-the text component use `HTML` syntax and should be wrapped in `<p>` tags.
+This component is used to display image in the article.
 
 ## Attributes
 
