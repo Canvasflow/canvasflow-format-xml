@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 🏷️ 0.3.0
+
+_Jul 11, 2023_
+
+✨ Features
+
+- Add [Map](./components/Map.md) component
+- Add [MapMarker](./components/map/MapMarker.md) component
+
+
 ## 🏷️ 0.2.0
 
 _Jul 11, 2023_
