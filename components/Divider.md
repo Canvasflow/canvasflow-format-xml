@@ -18,9 +18,9 @@ This is a component that is used to add a divider between components.
 
 ```xml
 <components>
-	<divider bleed="true"/>
-	<divider>
-		<device mobile="true" tablet="true" desktop="true"/>
-	</divider>
+  <divider bleed="true"/>
+  <divider>
+    <device mobile="true" tablet="true" desktop="true"/>
+  </divider>
 </components>
 ```

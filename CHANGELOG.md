@@ -1,10 +1,27 @@
 # CHANGELOG
 
+## 🏷️ 0.2.0
+
+_Jul 11, 2023_
+
+✨ Features
+
+- Introduce [GalleryItem](./components/gallery/GalleryItem.md) component
+- Add support for `id` in components
+- Add support for `width` and `height` attribute in
+  - [Image](./components/Image.md)
+  - [Video](./components/Video.md)
+
+🎨 Style
+  
+- Use `spaces` instead of `tabs` for code examples
+
 ## 🏷️ 0.1.0
 
 _Jul 10, 2023_
 
 ✨ Features
+
 - Add support for [main](./README.md) page
 - Add support for components
   - [Text](./components/Text.md)

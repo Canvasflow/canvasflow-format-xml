@@ -18,9 +18,9 @@ This is a component that is used to add a space between components.
 
 ```xml
 <components>
-	<spacer size="very-small" bleed="true"/>
-	<spacer>
-		<device mobile="true" tablet="true" desktop="true"/>
-	</spacer>
+  <spacer size="very-small" bleed="true"/>
+  <spacer>
+    <device mobile="true" tablet="true" desktop="true"/>
+  </spacer>
 </components>
 ```

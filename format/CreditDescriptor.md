@@ -1,6 +1,10 @@
 # Credit Descriptor
 
-Text component that describes who was the author of the [Image](../components/Image.md), [[Canvasflow Gallery Component|Gallery]] and [[Canvasflow Video Component|Video]] components. It uses the `<credit>` tag which the content inside the text component uses `HTML` syntax.
+Text component that describes who was the author of the 
+[Image](../components/Image.md), [Gallery](../components/Gallery.md),
+[GalleryItem](../components/gallery/GalleryItem.md) and 
+[Video](../components/Video.md) components. It uses the `<credit>` tag which 
+the content inside the text component uses `HTML` syntax.
 
 ## Attribute
 
@@ -11,8 +15,8 @@ Text component that describes who was the author of the [Image](../components/Im
 ## Example
 ```xml
 <components>
-	<image src="bundle://images/image.jpg">
-		<credit only-lightbox="true"> J.J. Adams </credit>
-	</image>
+  <image src="bundle://images/image.jpg">
+    <credit only-lightbox="true"> J.J. Adams </credit>
+  </image>
 </components>
 ```

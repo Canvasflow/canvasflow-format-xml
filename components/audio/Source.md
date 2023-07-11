@@ -11,9 +11,10 @@ This is a component specifies which audio source to use
 ## Example
 ```xml
 <components>
-	<video>
-		<source>
-			<file src="bundle://video-example.mp4"/>
-		</source>
+  <audio>
+    <source>
+      <file src="bundle://audio-sample.mp3"/>
+    </source>
+  </audio>
 </components>
 ```

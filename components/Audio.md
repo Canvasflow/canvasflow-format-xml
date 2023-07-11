@@ -24,14 +24,14 @@ _If the image is inside a gallery component the properties `animation` and `devi
 ## Example
 ```xml
 <components>
-	<audio>
-		<source>
-			<file src="bundle://audio-sample.mp3"/>
-		</source>
-		<animation type="bounceIn" speed="slow" repeat="1"/>
-		<device mobile="true" tablet="true" desktop="true"/>
-		<caption> Rain </caption>
-		<credit> Nick Eudovicii </credit>
-	</video>
+  <audio>
+    <source>
+      <file src="bundle://audio-sample.mp3"/>
+    </source>
+    <animation type="bounceIn" speed="slow" repeat="1"/>
+    <device mobile="true" tablet="true" desktop="true"/>
+    <caption> Rain </caption>
+    <credit> Nick Eudovicii </credit>
+  </audio>
 </components>
 ```

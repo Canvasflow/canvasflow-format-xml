@@ -1,6 +1,6 @@
-# Gallery Item Component
+# Gallery Item
 
-This component is used to display image in the [Gallery Component](../Gallery.md)
+This component is used to display image in the [Gallery](../Gallery.md) Component.
 
 ## Attributes
 
@@ -24,20 +24,20 @@ _If the image is inside a gallery component the properties `animation` and `devi
 ## Example
 ```xml
 <components>
-	<gallery>
-		<items>
-			<item src="bundle://images/item-1.jpg"/>
-			<item src="bundle://images/item-2.jpg" width="500"/>
-			<item src="bundle://images/item-3.jpg">
-				<caption>This is an image</caption>
-			</item>
-			<item src="bundle://images/item-4.jpg">
-				<credit>This is an image</credit>
-			</item>
-		</items>
-		<animation type="bounceIn" speed="slow" repeat="1"/>
-		<device mobile="true" tablet="true" desktop="true"/>
-		<caption> Thunderstorm </caption>
-	</gallery>
+  <gallery>
+    <items>
+      <item src="bundle://images/item-1.jpg"/>
+      <item src="bundle://images/item-2.jpg" width="500"/>
+      <item src="bundle://images/item-3.jpg">
+        <caption>This is an image</caption>
+      </item>
+      <item src="bundle://images/item-4.jpg">
+        <credit>This is an image</credit>
+      </item>
+    </items>
+    <animation type="bounceIn" speed="slow" repeat="1"/>
+    <device mobile="true" tablet="true" desktop="true"/>
+    <caption> Thunderstorm </caption>
+  </gallery>
 </components>
 ```

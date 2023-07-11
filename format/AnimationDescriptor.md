@@ -14,8 +14,8 @@ Applies animation to the component.
 ## Example
 ```xml
 <components>
-	<image src="bundle://images/image.jpg">
-		<animation type="bounceIn" speed="slow" repeat="1"/>
-	</image>
+  <image src="bundle://images/image.jpg">
+    <animation type="bounceIn" speed="slow" repeat="1"/>
+  </image>
 </components>
 ```

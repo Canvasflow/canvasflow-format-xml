@@ -27,10 +27,10 @@ to the article but do not required to be rendered.
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
 <article lang="en">
-	<metadata>
-		<title>This is an example of the title</title>
-		<description> Description of the article </description>
-	</metadata>
+  <metadata>
+    <title>This is an example of the title</title>
+    <description> Description of the article </description>
+  </metadata>
 </article>
 ``` 
 
@@ -64,18 +64,18 @@ are wrap in the `<components>` element.
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
 <article lang="en">
-	<metadata>
-		<title>This is an example of the title</title>
-		<description> Description of the article </description>
-	</metadata>
-	<components>
-		<text type="headline">
-			<p>Headline<p/>
-		</text>
-		<text>
-			<p>This is the body of the article</p>
-		</text>
-	</components>
+  <metadata>
+    <title>This is an example of the title</title>
+    <description> Description of the article </description>
+  </metadata>
+  <components>
+    <text type="headline">
+      <p>Headline<p/>
+    </text>
+    <text>
+      <p>This is the body of the article</p>
+    </text>
+  </components>
 </article>
 ``` 
 
