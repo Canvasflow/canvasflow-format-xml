@@ -13,7 +13,7 @@ keywords:
 
 # Map Marker Component
 
-This component is used to display a marker in the [Map Component](../Map.md).
+This component is used to display a marker in the [Map](../Map.md) Component.
 
 ## Attributes
 
