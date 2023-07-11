@@ -31,13 +31,11 @@ This component is used to display a marker in the [Map Component](../Map.md).
 ## Example
 ```xml
 <components>
-  <map latitude="3.123123123" longitude="1.123123123">
+  <map latitude="48.85827830746261" longitude="2.2942667208178773">
     <markers>
-      <marker latitude="1.1111" longitude="1.11111">
-        <caption>Eiffel Tower</caption>
-      </marker>
-      <marker latitude="1.1111" longitude="1.11111"/>
+      <marker latitude="48.85761477995638" longitude="2.2957902154025494"/>
     </markers>
+    <caption>Eiffel Tower Paris</caption>
   </map>
 </components>
 ```
