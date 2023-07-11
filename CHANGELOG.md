@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 🏷️ 0.3.1
+
+_Jul 11, 2023_
+
+🐛 Fixed
+
+- Remove metadata from [MapMarker](./components/map/MapMarker.md) component
+
 ## 🏷️ 0.3.0
 
 _Jul 11, 2023_
