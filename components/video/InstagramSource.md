@@ -12,10 +12,10 @@ This is a component that renders a Instagram live tv, reel or post.
 ## Example
 ```xml
 <components>
-	<video>
-		<source>
-			<instagram id="CoxIGcuK7c9" type="post"/>
-		</source>
-	</video>
+  <video>
+    <source>
+      <instagram id="CoxIGcuK7c9" type="post"/>
+    </source>
+  </video>
 </components>
 ```

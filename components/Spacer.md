@@ -6,6 +6,7 @@ This is a component that is used to add a space between components.
 
 | Attribute             | Description                                                                                                        |
 | :-------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| `id` <br/> _string_   | Id of the component                                                                                                |
 | `size` <br/> _string_ | Size of the spacer. </br> </br>_Possible values: `very-small`, `small`, `medium` (Default), `large`, `very-large`_ |
 
 ## Properties
@@ -17,9 +18,9 @@ This is a component that is used to add a space between components.
 
 ```xml
 <components>
-	<spacer size="very-small" bleed="true"/>
-	<spacer>
-		<device mobile="true" tablet="true" desktop="true"/>
-	</spacer>
+  <spacer size="very-small" bleed="true"/>
+  <spacer>
+    <device mobile="true" tablet="true" desktop="true"/>
+  </spacer>
 </components>
 ```

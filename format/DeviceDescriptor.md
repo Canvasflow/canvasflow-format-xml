@@ -13,8 +13,8 @@ Property that specify if the component should be displayed in a particular devic
 ## Example
 ```xml
 <components>
-	<image src="bundle://images/image.jpg">
-		<device mobile="true" tablet="true" desktop="true"/>
-	</image>
+  <image src="bundle://images/image.jpg">
+    <device mobile="true" tablet="true" desktop="true"/>
+  </image>
 </components>
 ```

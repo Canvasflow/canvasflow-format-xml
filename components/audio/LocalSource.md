@@ -12,10 +12,10 @@ a file.
 ## Example
 ```xml
 <components>
-	<audio>
-		<source>
-			<file src="bundle://audio-sample.mp3"/>
-		</source>
-	</audio>
+  <audio>
+    <source>
+      <file src="bundle://audio-sample.mp3"/>
+    </source>
+  </audio>
 </components>
 ```

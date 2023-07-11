@@ -12,10 +12,10 @@ This is a component that renders a TikTok video.
 ## Example
 ```xml
 <components>
-	<video>
-		<source>
-			<tiktok id="7224911609645354266" username="rose3brown"/>
-		</source>
-	</video>
+  <video>
+    <source>
+      <tiktok id="7224911609645354266" username="rose3brown"/>
+    </source>
+  </video>
 </components>
 ```
