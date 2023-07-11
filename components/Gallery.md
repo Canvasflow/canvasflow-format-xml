@@ -14,7 +14,7 @@ This is a component that is used to group images together.
 ## Properties
 | Property                                                          | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
-| `items` <br/> \[[Image](Image.md)\]                               | **(Required)** List of images that appear in the gallery.   |
+| `items` <br/> \[[GalleryItem](./gallery/GalleryItem.md)\]         | **(Required)** List of images that appear in the gallery.   |
 | `animation` <br/> _‌[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_           | Controls in which device the component should be displayed. |
 | `caption` <br/>_[Caption](../format/CaptionDescriptor.md)_        | Control if a caption should be displayed in the content     |
