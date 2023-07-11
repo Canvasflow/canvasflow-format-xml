@@ -6,6 +6,7 @@ This is a component that is used to group images together.
 
 | Attribute                  | Description                                                                                                                                                                                                |
 | :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `id` <br/> _string_        | Id of the component                                                                                                                                                                                        |
 | `role` <br/> _string_      | Role of the image </br> </br>_Possible values: `gallery`, `mosaic`_                                                                                                                                        |
 | `bleed` <br/> _boolean_    | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._ |
 | `direction` <br/> _string_ | Direction on which the gallery is going to move. </br> </br>_Possible values: `vertical`, `horizontal` (Default)._                                                                                         |

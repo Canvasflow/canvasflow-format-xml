@@ -6,6 +6,7 @@ This component is used to display image in the article.
 
 | Attribute                      | Description                                                                                                                                                                                                        |
 | :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `id` <br/> _string_            | Id of the component                                                                                                                                                                                                |
 | `role` <br/> _string_          | Role of the image </br> </br>_Possible values: `image`, `photo`, `figure`, `portrait`, `logo`, `thumbnail`_                                                                                                        |
 | `width` <br/> _number_         | Width of the image in the article                                                                                                                                                                                  |
 | `height` <br/> _number_        | Height of the image in the article                                                                                                                                                                                 |

@@ -6,6 +6,7 @@ This is a component enables user to add video to the article.
 
 | Attribute                  | Description                                                                                                                                                                                                |
 | :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `id` <br/> _string_        | Id of the component                                                                                                                                                                                        |
 | `web` <br/> _boolean_      | Declares if the video is from a web source or a local file.                                                                                                                                                |
 | `autoplay` <br/> _boolean_ | Declares if the should start as soon is loaded                                                                                                                                                             |
 | `loop` <br/> _boolean_     | Declares if the should be looped                                                                                                                                                                           |

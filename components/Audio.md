@@ -6,6 +6,7 @@ This is a component enables user to add an audio component to the article.
 
 | Attribute               | Description                                                                                                                                                                                                |
 | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `id` <br/> _string_     | Id of the component                                                                                                                                                                                        |
 | `bleed` <br/> _boolean_ | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._ |
 
 
