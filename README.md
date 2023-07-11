@@ -54,7 +54,7 @@ are wrap in the `<components>` element.
 | [Audio](./components/Audio.md)     | Used to display audio                         |
 | [Divider](./components/Divider.md) | Used to display divider between components    |
 | [Spacer](./components/Spacer.md)   | Used to display space between components      |
-| Map                                | Used to display maps                          |
+| [Map](./components/Map.md)         | Used to display maps                          |
 | Button                             | Used to display buttons                       |
 | Columns                            | Used to display columns that group components |
 
