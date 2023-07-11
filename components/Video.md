@@ -30,14 +30,14 @@ _If the image is inside a gallery component the properties `animation` and `devi
 ## Example
 ```xml
 <components>
-	<video width="500">
-		<source>
-			<file src="bundle://video-example.mp4"/>
-		</source>
-		<animation type="bounceIn" speed="slow" repeat="1"/>
-		<device mobile="true" tablet="true" desktop="true"/>
-		<caption> Thunderstorm </caption>
-		<credit> Nicholas Tesla </credit>
-	</video>
+  <video width="500">
+    <source>
+      <file src="bundle://video-example.mp4"/>
+    </source>
+    <animation type="bounceIn" speed="slow" repeat="1"/>
+    <device mobile="true" tablet="true" desktop="true"/>
+    <caption> Thunderstorm </caption>
+    <credit> Nicholas Tesla </credit>
+  </video>
 </components>
 ```

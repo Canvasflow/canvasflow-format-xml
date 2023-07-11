@@ -21,39 +21,37 @@ This is a component that is used to display text content. The content inside the
 ## Example
 ```xml
 <article>
-	<components>
-		<text type="crosshead" bleed="true">
-			<device mobile="false" tablet="false" desktop="true"/>
-			<p>Crosshead that only display in desktop</p>
-		</text>
-		<text type="headline">
-			<p>This is a headline</p>
-		</text>
-		<text type="body">
-			<animation type="bounceIn" speed="slow" repeat="1">
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing 
-				elit. Praesent a augue et nulla vehicula tempor vel 
-				ultrices sem. Duis cursus diam id mi pharetra, sit 
-				amet aliquam sem luctus. Aliquam erat volutpat. In 
-				ullamcorper bibendum erat ut gravida. Nunc sit amet 
-				fringilla arcu. Etiam commodo ultricies tellus vitae 
-				consequat. Nulla sed ipsum ac elit egestas auctor 
-				a ut tellus.
-			</p>
-			<p>
-				<ul>
-					<li>Item 1</li>
-					<li>Item 2</li>
-				</ul>
-			</p>
-		</text>
-		<text type="footer">
-			<animation type="bounceIn" speed="slow" repeat="1">
-			<p>
-				Footer with animation
-			</p>
-		</text>
-	</components>
+  <components>
+    <text type="crosshead" bleed="true">
+      <device mobile="false" tablet="false" desktop="true" />
+      <p>Crosshead that only display in desktop</p>
+    </text>
+    <text type="headline">
+      <p>This is a headline</p>
+    </text>
+    <text type="body">
+      <animation type="bounceIn" speed="slow" repeat="1" />
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing
+        elit. Praesent a augue et nulla vehicula tempor vel
+        ultrices sem. Duis cursus diam id mi pharetra, sit
+        amet aliquam sem luctus. Aliquam erat volutpat. In
+        ullamcorper bibendum erat ut gravida. Nunc sit amet
+        fringilla arcu. Etiam commodo ultricies tellus vitae
+        consequat. Nulla sed ipsum ac elit egestas auctor
+        a ut tellus.
+      </p>
+      <p>
+        <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+        </ul>
+      </p>
+    </text>
+    <text type="footer">
+      <animation type="bounceIn" speed="slow" repeat="1" />
+      <p>Footer with animation</p>
+    </text>
+  </components>
 </article>
 ```

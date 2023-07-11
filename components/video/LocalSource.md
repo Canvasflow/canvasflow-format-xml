@@ -10,10 +10,10 @@ This is a component that specifies which file is going to be used to load the vi
 ## Example
 ```xml
 <components>
-	<video>
-		<source>
-			<file src="bundle://video-example.mp4"/>
-		</source>
-	</video>
+  <video>
+    <source>
+      <file src="bundle://video-example.mp4"/>
+    </source>
+  </video>
 </components>
 ```

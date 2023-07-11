@@ -28,15 +28,15 @@ _If the image is inside a gallery component the properties `animation` and `devi
 ## Example
 ```xml
 <components>
-	<image 
-		role="image" 
-		bleed="false" 
-		unselectable="false" 
-		src="bundle://images/lighting.jpg">
-			<animation type="bounceIn" speed="slow" repeat="1"/>
-			<device mobile="true" tablet="true" desktop="true"/>
-			<caption> Thunderstorm </caption>
-			<credit> Nicholas Tesla </credit>
-	</image>
+  <image 
+    role="image" 
+    bleed="false" 
+    unselectable="false" 
+    src="bundle://images/lighting.jpg">
+      <animation type="bounceIn" speed="slow" repeat="1"/>
+      <device mobile="true" tablet="true" desktop="true"/>
+      <caption> Thunderstorm </caption>
+      <credit> Nicholas Tesla </credit>
+  </image>
 </components>
 ```

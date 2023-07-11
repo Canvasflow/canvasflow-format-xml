@@ -11,20 +11,20 @@ This is a component specifies which video source to use
 ## Example
 ```xml
 <components>
-	<video>
-		<source>
-			<file src="bundle://video-example.mp4"/>
-		</source>
-	</video>
-		<video>
-		<source>
-			<instagram id="CoxIGcuK7c9" type="post"/>
-		</source>
-	</video>
-	<video>
-		<source>
-			<tiktok id="7224911609645354266" username="rose3brown"/>
-		</source>
-	</video>
+  <video>
+    <source>
+      <file src="bundle://video-example.mp4"/>
+    </source>
+  </video>
+  <video>
+    <source>
+      <instagram id="CoxIGcuK7c9" type="post"/>
+    </source>
+  </video>
+  <video>
+    <source>
+      <tiktok id="7224911609645354266" username="rose3brown"/>
+    </source>
+  </video>
 </components>
 ```
