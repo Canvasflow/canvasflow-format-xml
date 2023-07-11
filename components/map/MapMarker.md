@@ -1,17 +1,4 @@
----
-title: "Canvasflow Map Marker Component"
-alias: ["Canvasflow Map Marker Component"]
-tags: "#canvasflow, #work, #spec"
-last_reviewed: 2023-07-11
-created_at: 2023-07-11
-keywords:
-  - canvasflow
-  - specification
-  - format
-  - map
----
-
-# Map Marker Component
+# MapMarker
 
 This component is used to display a marker in the [Map](../Map.md) Component.
 
