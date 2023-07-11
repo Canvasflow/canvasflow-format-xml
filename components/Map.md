@@ -1,4 +1,4 @@
-# Map Component
+# Map
 
 This component is used to display a map in the article.
 
