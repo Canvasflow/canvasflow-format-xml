@@ -22,6 +22,7 @@ This component is used to display image in the [Gallery](../Gallery.md) Componen
 _If the image is inside a gallery component the properties `animation` and `device` are going to be ignored_
 
 ## Example
+
 ```xml
 <components>
   <gallery>
