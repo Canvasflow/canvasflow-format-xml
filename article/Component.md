@@ -18,3 +18,16 @@ This are all the components that are supported:
 | [Columns](./../components/Columns.md)     | Used to display columns that group components   |
 | [Container](./../components/Container.md) | Used to display container that group components |
 | Button                                    | Used to display buttons                         |
+
+## Example
+
+```xml
+<components>
+  <text type="headline">
+    <p>Headline<p/>
+  </text>
+  <text>
+    <p>This is the body of the article</p>
+  </text>
+</components>
+``` 
