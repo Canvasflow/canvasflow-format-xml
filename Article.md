@@ -63,10 +63,10 @@ reference to any media file.
 
 ## Elements
 
-| Element                                                  | Description               |
-| :------------------------------------------------------- | :------------------------ |
-| `metadata` <br/>_[Metadata](./article/Metadata.md)_      | Metadata of article       |
-| `components` <br/>[_[Component](./article/Metadata.md)_] | Components of the article |
+| Element                                                   | Description               |
+| :-------------------------------------------------------- | :------------------------ |
+| `metadata` <br/>_[Metadata](./article/Metadata.md)_       | Metadata of article       |
+| `components` <br/>[_[Component](./article/Component.md)_] | Components of the article |
 
 
 ## Example
