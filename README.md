@@ -7,7 +7,7 @@ Currently Canvasflow supports the following formats
 
 ## Formats
 
-| Format                         | Extension  | Description                                                                                                         |
-| :----------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
-| [Article Format](./Article.md) | `.article` | Enables user to express a single article in canvasflow                                                              |
-| [Issue Format](./Issue.md)     | `.issue`   | Enables user to express a single issue in canvasflow, which contains `articles` and adds support for replica pages. |
+| Format                  | Extension  | Description                                                                                                         |
+| :---------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
+| [Article](./Article.md) | `.article` | Enables user to express a single article in canvasflow                                                              |
+| [Issue](./Issue.md)     | `.issue`   | Enables user to express a single issue in canvasflow, which contains `articles` and adds support for replica pages. |
