@@ -16,8 +16,9 @@ This is a component enables user to add video to the article.
 | `bleed` <br/> _boolean_    | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._ |
 
 
-## Properties
-| Property                                                          | Description                                                 |
+## Elements
+
+| Element                                                           | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
 | `source` <br/> _‌[Video Source](./video/Source.md)_                | Applies the source of the video component                   |
 | `animation` <br/> _‌[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
@@ -28,6 +29,7 @@ This is a component enables user to add video to the article.
 _If the image is inside a gallery component the properties `animation` and `device` are going to be ignored_
 
 ## Example
+
 ```xml
 <components>
   <video width="500">

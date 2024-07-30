@@ -12,14 +12,15 @@ This is a component that is used to group components into columns.
 | `align` <br/> _string_    | Set the alignment of the columns. </br> </br>Values: <ul><li>`center` _(Default)_</li><li>`left`</li><li>`right`</li></ul>                                                                                                                                                        |
 | `collapse` <br/> _string_ | Controls when the columns should collapse onto each other. </br> </br>Values: <ul><li>`responsive` _(Default)_: The columns collapse when the are in a mobile device.</li><li>`tablet`: The columns collapse when they are in a tablet size or smaller.</li><li>`rigid`</li></ul> |
 
-## Properties
-| Property                                                | Description                                                                         |
+## Elements
+
+| Element                                                 | Description                                                                         |
 | :------------------------------------------------------ | :---------------------------------------------------------------------------------- |
 | `column`                                                | **(Required)** Represent a column, which is going to contain a group of components. |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_ | Controls in which device the component should be displayed.                         |
 
-
 ## Example
+
 ```xml
 <components>
 	<columns

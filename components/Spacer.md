@@ -9,8 +9,9 @@ This is a component that is used to add a space between components.
 | `id` <br/> _string_   | Id of the component                                                                                                |
 | `size` <br/> _string_ | Size of the spacer. </br> </br>_Possible values: `very-small`, `small`, `medium` (Default), `large`, `very-large`_ |
 
-## Properties
-| Property                                                | Description                                                 |
+## Elements
+
+| Element                                                 | Description                                                 |
 | :------------------------------------------------------ | :---------------------------------------------------------- |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_ | Controls in which device the component should be displayed. |
 

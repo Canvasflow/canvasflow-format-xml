@@ -15,8 +15,9 @@ This component is used to display image in the article.
 | `unselectable` <br/> _boolean_ | Value that express if the image can be selected.                                                                                                                                                                   |
 
 
-## Properties
-| Property                                                          | Description                                                 |
+## Elements
+
+| Element                                                           | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
 | `animation` <br/> _[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_           | Controls in which device the component should be displayed. |
@@ -26,6 +27,7 @@ This component is used to display image in the article.
 _If the image is inside a gallery component the properties `animation` and `device` are going to be ignored_
 
 ## Example
+
 ```xml
 <components>
   <image 

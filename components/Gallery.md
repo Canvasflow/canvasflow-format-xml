@@ -11,8 +11,9 @@ This is a component that is used to group images together.
 | `bleed` <br/> _boolean_    | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._ |
 | `direction` <br/> _string_ | Direction on which the gallery is going to move. </br> </br>_Possible values: `vertical`, `horizontal` (Default)._                                                                                         |
 
-## Properties
-| Property                                                          | Description                                                 |
+## Elements
+
+| Element                                                           | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
 | `items` <br/> _\[[GalleryItem](./gallery/GalleryItem.md)\]_       | **(Required)** List of images that appear in the gallery.   |
 | `animation` <br/> _‌[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
@@ -20,6 +21,7 @@ This is a component that is used to group images together.
 | `caption` <br/>_[Caption](../format/CaptionDescriptor.md)_        | Control if a caption should be displayed in the content     |
 
 ## Example
+
 ```xml
 <components>
   <gallery>

@@ -11,13 +11,15 @@ This is a component that is used to group other components.
 | `bleed` <br/> _boolean_    | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._<br><br> **CAUTION: This is supported in the specification but is not supported in the editor.** |
 
 
-## Properties
-| Property                                                | Description                                                                                                                                                  |
+## Elements
+
+| Element                                                 | Description                                                                                                                                                  |
 | :------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_ | Controls in which device the component should be displayed. <br><br> **CAUTION: This is supported in the specification but is not supported in the editor.** |
 
 
 ## Example
+
 ```xml
 <components>
 	<container bleed="true" direction="vertical">

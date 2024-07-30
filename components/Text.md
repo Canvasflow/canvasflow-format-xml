@@ -11,14 +11,16 @@ This is a component that is used to display text content. The content inside the
 | `dropcap` <br/> _boolean_ | This is a value that express if the component should use a drop cap                                                                                                                                                                                             |
 | `bleed` <br/> _boolean_   | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._                                                      |
 
-## Properties
-| Property                                                          | Description                                                 |
+## Elements
+
+| Element                                                           | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
 | `animation` <br/> _[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_           | Controls in which device the component should be displayed. |
 
 
 ## Example
+
 ```xml
 <article>
   <components>
