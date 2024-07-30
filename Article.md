@@ -69,6 +69,29 @@ reference to any media file.
 | `components` <br/>[_[Component](./article/Metadata.md)_] | Components of the article |
 
 
+## Example
 
-
+```xml
+<?xml version='1.0' encoding='utf-8'?>
+<article
+  lang="en"
+  slug="example" 
+  role="article" 
+  featured="true"
+  sponsored="true"
+  thumbnail="bundle://thumb.jpg">
+	<metadata>
+		<title>This is an example of the title</title>
+		<description> Description of the article </description>
+	</metadata>
+	<components>
+		<text type="headline">
+			<p>Headline<p/>
+		</text>
+		<text>
+			<p>This is the body of the article</p>
+		</text>
+	</components>
+</article>
+``` 
 
