@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "Article"
+        "Article",
+        "Issue"
     ]
 }
