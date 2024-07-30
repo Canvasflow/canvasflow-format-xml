@@ -80,18 +80,18 @@ reference to any media file.
   featured="true"
   sponsored="true"
   thumbnail="bundle://thumb.jpg">
-	<metadata>
-		<title>This is an example of the title</title>
-		<description> Description of the article </description>
-	</metadata>
-	<components>
-		<text type="headline">
-			<p>Headline<p/>
-		</text>
-		<text>
-			<p>This is the body of the article</p>
-		</text>
-	</components>
+  <metadata>
+    <title>This is an example of the title</title>
+    <description> Description of the article </description>
+  </metadata>
+  <components>
+    <text type="headline">
+      <p>Headline<p/>
+    </text>
+    <text>
+      <p>This is the body of the article</p>
+    </text>
+  </components>
 </article>
 ``` 
 

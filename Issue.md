@@ -1,11 +1,11 @@
 # Issue
 
-The Canvasflow Format for Issue is in XML format that enables the user to 
+**Issue Format** is in XML format that enables the user to 
 express an issue in a format that is understandable by Canvasflow.
 
 This format enable user to group multiple articles,
 [Table of Content](./issue/TOC.md), article ordering and 
-replica [pages](./issue/Page.md)
+[Replica Pages](./issue/Page.md)
 
 Each article inside the issue follows 
 the [Canvasflow Format for Article](./Article.md).
