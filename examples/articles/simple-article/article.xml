@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<article lang="en">
+<article lang="en" sponsored="true">
     <metadata>
         <title>The British Government</title>
         <description>Is the central government of the United Kingdom, which consists of England,
             Scotland, Wales, and Northern Ireland</description>
+        <canonical>https://www.gov.uk/</canonical>
     </metadata>
     <components>
         <image
@@ -18,7 +19,7 @@
         <text type="headline">
             <p>Definition</p>
         </text>
-        <text dropcap="trie">
+        <text dropcap="true">
             <p>The British Government is the central government of the United Kingdom, which
                 consists of England, Scotland, Wales, and Northern Ireland. The government is a
                 parliamentary democracy, with Queen Elizabeth II serving as the head of state but

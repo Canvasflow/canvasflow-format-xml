@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lang="en" slug="f1" featured="true" role="article" thumbnail="bundle://thumb.jpg">
+    <metadata>
+        <title>What is F1?</title>
+        <description>Highest class of single-seater auto racing sanctioned by the Fédération
+            Internationale de l'Automobile (FIA)</description>
+        <author>Branden Sambersond</author>
+        <canonical>https://www.formula1.com/</canonical>
+        <note>This is an article that should be published on Monday</note>
+    </metadata>
+    <components>
+        <image
+            role="photo"
+            bleed="true"
+            unselectable="false"
+            src="bundle://images/pits.jpg">
+            <animation type="bounceIn" speed="slow" repeat="1" />
+            <device mobile="true" tablet="true" desktop="true" />
+            <caption> Racing Driver On A Pit Stop
+            </caption>
+            <credit>Quentin Tricoire</credit>
+        </image>
+        <text dropcap="true">
+            <p>Formula One, also known as F1, is the highest class of single-seater auto racing
+                sanctioned by the Fédération Internationale de l'Automobile (FIA). It is considered
+                to be one of the most prestigious and competitive forms of motorsport in the world.</p>
+        </text>
+        <divider bleed="true" />
+        <columns
+            split="2-1"
+            align="center"
+            collapse="responsive">
+            <column>
+                <text type="text30">
+                    <p>Formula One cars are the fastest road course racing cars in the world, with
+                        the ability to reach speeds of over 200 miles per hour (320 km/h) on a
+                        modern race track. The cars are designed and built by a handful of top-tier
+                        teams, including Ferrari, Mercedes-AMG, Red
+                        Bull Racing, and Williams, among others. Each team has a limited number of
+                        engines and tires available for the season, which adds an element of
+                        strategy to pit stops and race planning.</p>
+                </text>
+            </column>
+            <column>
+                <text type="text33">
+                    <p>Races are typically held on purpose-built circuits or on public roads closed
+                        for racing. The cars must be capable of reaching incredible speeds within a
+                        very short distance, and the drivers must be skilled and experienced to
+                        handle these high speeds and the intense
+                        G-forces involved in cornering and braking.</p>
+                </text>
+            </column>
+        </columns>
+        <spacer size="very-small" />
+        <container bleed="true" direction="vertical">
+            <text type="text40">
+                <p>
+                    The Formula One season consists of a series of races held around the world,
+                    known as
+                    Grands Prix. The top drivers and teams are ranked based on their performance
+                    throughout
+                    the season, with the driver and team earning the most points being declared the
+                    champion. The
+                    season culminates in November with the Abu Dhabi Grand Prix, which also serves
+                    as the
+                    final race of the season.
+                </p>
+            </text>
+            <video>
+                <source>
+                    <tiktok id="7397768134054169889" username="f1" />
+                    <caption>Checo's just got that crazy eye aura </caption>
+                </source>
+            </video>
+            <text type="text45">
+                <p>
+                    Formula One has a large global following and is widely considered to be one of
+                    the most technologically advanced forms of motorsport. The sport is known for
+                    its glamorous and wealthy owners, as well as its high-profile drivers, many of
+                    whom have become celebrities
+                    in their own right. The sport also has a long history of innovation, with new
+                    technologies and materials constantly being introduced to improve performance.
+                </p>
+            </text>
+        </container>
+        <spacer size="very-small" />
+        <text type="text39">
+            <p>
+                In addition to the on-track competition, Formula One is also known for its political
+                intrigue and backroom deals, with teams and drivers often jockeying for position and
+                influence within the sport. The sport has a complex and convoluted governing
+                structure,
+                with
+                multiple layers of management and decision-making, which can sometimes lead to
+                controversy and conflict.
+            </p>
+        </text>
+        <spacer size="medium" />
+        <gallery>
+            <animation type="bounceIn" speed="slow" repeat="1" />
+            <items>
+                <item src="bundle://gallery/item-1.jpg" width="500">
+                    <caption>Blue car</caption>
+                </item>
+                <item src="bundle://gallery/item-2.jpg" width="500">
+                    <caption>Orange Car</caption>
+                </item>
+                <item src="bundle://gallery/item-3.jpg" width="500" />
+            </items>
+            <caption>Cars in F1</caption>
+        </gallery>
+        <text type="footer">
+            <device mobile="false" tablet="false" desktop="true" />
+            <animation type="zoomIn" speed="slow" repeat="none" />
+            <p>Overall, Formula One is a highly competitive and technologically advanced form of
+                motorsport that attracts a large global following and is widely considered to be one
+                of the most prestigious forms of racing in the world.</p>
+        </text>
+    </components>
+</article>
