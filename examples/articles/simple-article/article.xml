@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lang="en">
+    <metadata>
+        <title>The British Government</title>
+        <description>Is the central government of the United Kingdom, which consists of England,
+            Scotland, Wales, and Northern Ireland</description>
+    </metadata>
+    <components>
+        <image
+            role="photo"
+            bleed="true"
+            unselectable="false"
+            src="bundle://images/flag.jpg">
+            <animation type="bounceIn" speed="slow" repeat="1" />
+            <device mobile="true" tablet="true" desktop="true" />
+            <caption> UK flag on creased paper</caption>
+        </image>
+        <text type="headline">
+            <p>Definition</p>
+        </text>
+        <text dropcap="trie">
+            <p>The British Government is the central government of the United Kingdom, which
+                consists of England, Scotland, Wales, and Northern Ireland. The government is a
+                parliamentary democracy, with Queen Elizabeth II serving as the head of state but
+                holding limited powers due
+                to the constitutional monarchy. In practice, the Prime Minister, currently Boris
+                Johnson, exercises most executive power.</p>
+        </text>
+        <divider bleed="true" />
+        <text type="headline">
+            <p>Branches</p>
+        </text>
+        <text type="text3">
+            <p>The British Government is divided into several branches, including the Executive,
+                Legislative, and Judicial branches.</p>
+        </text>
+        <text type="title">
+            <p>Executive branch</p>
+        </text>
+        <text type="text4">
+            <p>The Executive branch is led by the Prime Minister and includes various cabinet-level
+                ministers responsible for different areas of governance, such
+                as finance, education, health, and defense.</p>
+        </text>
+        <spacer size="very-small" bleed="true" />
+        <text type="title">
+            <p>Legislative branch</p>
+        </text>
+        <text type="text4">
+            <p>The Legislative branch is the Parliament, which consists of the House of Commons and
+                the House of Lords. Members of Parliament are elected by the people through a
+                first-past-the-post system, while members of the House of
+                Lords are appointed by the Queen on the advice of the Prime Minister.</p>
+        </text>
+        <spacer size="very-small" bleed="true" />
+        <text type="title">
+            <p>Judicial branch</p>
+        </text>
+        <text type="text4">
+            <p>The Judicial branch is headed by the Supreme Court, which was established in 2009 to
+                replace the House of Lords as the highest court in the land. The Supreme Court has
+                the power to interpret the law and ensure that it is consistent with the European
+                Convention on
+                Human Rights and other relevant international agreements.</p>
+        </text>
+        <divider bleed="true" />
+        <text type="headline">
+            <p>Responsabilities</p>
+        </text>
+        <text type="text12">
+            <p>The British Government plays a crucial role in shaping the country's laws, policies,
+                and public services. It sets the overall direction and priorities for the nation,
+                and its various branches work together to ensure that these goals are achieved. Some
+                of the key
+                areas of focus for the government include:</p>
+            <ul>
+                <li><b>Economic growth and competitiveness</b>: The government works to promote
+                    economic growth through policies such as tax cuts, investment in infrastructure,
+                    and support for businesses, particularly small and medium-sized enterprises
+                    (SMEs).</li>
+                <li><b>Education and skills development</b>: The government invests in education and
+                    training programs to help people acquire the skills they need to succeed in the
+                    modern economy. This includes initiatives such as apprenticeships, vocational
+                    training, and higher education funding.</li>
+                <li><b>Healthcare and social care</b>: The government provides a comprehensive
+                    healthcare system that is generally considered to be of high quality, with a
+                    focus on preventive medicine and early intervention. It also invests in social
+                    care services to support vulnerable populations, such as the elderly and those
+                    with disabilities.</li>
+                <li><b>Defense and security</b>: The government maintains a strong defense
+                    capability to protect the country from external threats, including terrorism,
+                    cyberattacks, and conventional military threats. It also works to promote peace
+                    and stability around the world through its foreign policy and international
+                    security efforts.</li>
+            </ul>
+        </text>
+        <divider bleed="true" />
+        <text type="headline" bleed="true">
+            <p>Conclusion</p>
+        </text>
+        <text type="footer" bleed="true">
+            The British Government plays a vital role in shaping the country's laws, policies, and
+            public services. Its various branches work together to ensure that the nation is
+            governed effectively and efficiently, with a focus on promoting economic growth,
+            education and skills development, healthcare and social care, and defense and security.
+            The government's commitment to these priorities helps to maintain the United Kingdom's
+            status as a leading global power and a beacon of democracy and human rights.
+        </text>
+    </components>
+</article>
