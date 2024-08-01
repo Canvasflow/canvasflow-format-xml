@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article
+    lang="en"
+    slug="america"
+    role="article"
+    featured="true"
+    sponsored="true"
+    thumbnail="bundle://thumbnail/america-thumbnail.jpg">
+    <metadata>
+        <title>America</title>
+    </metadata>
+    <components>
+        <image
+            role="photo"
+            bleed="true"
+            unselectable="false"
+            src="bundle://images/america/hero.jpg">
+            <caption>Dumbo, Manhattan bridge, Nyc image</caption>
+        </image>
+        <text type="headline">
+            <p>America</p>
+        </text>
+
+        <text>
+            <p>The American Continent, also known as the Americas, refers to the landmasses that
+                make up the Western Hemisphere, including North America, Central America, South
+                America, and the Caribbean. This vast region stretches from the Arctic Circle in the
+                north to the tip of
+                South America in the south, and from the Atlantic Ocean in the east to the Pacific
+                Ocean in the west.</p>
+        </text>
+        <spacer size="small" />
+        <columns
+            split="1-1"
+            align="center"
+            collapse="responsive">
+            <column>
+                <text>
+                    <p>The American Continent is home to a diverse range of cultures, languages, and
+                        landscapes. The northern parts of the continent, including Canada and
+                        Alaska, are
+                        known for their rugged mountains, vast forests, and icy tundras. In
+                        contrast, the
+                        southern parts of the
+                        continent, such as Mexico, Central America, and South America, are
+                        characterized by
+                        dense rainforests, towering volcanoes, and arid deserts.</p>
+                </text>
+            </column>
+            <column>
+                <text>
+                    <p>The history of the American Continent is rich and complex, with evidence of
+                        human
+                        habitation dating back over 15,000 years. The indigenous peoples of the
+                        continent
+                        have a long and storied history, with many cultures and civilizations rising
+                        and
+                        falling over the
+                        centuries. European explorers and settlers arrived in the 15th century,
+                        bringing
+                        with them new technologies, ideas, and diseases that had a profound impact
+                        on the
+                        native populations.</p>
+                </text>
+            </column>
+        </columns>
+        <text type="blockquote">
+            <p>Today, the American Continent is home to some of the world's most vibrant and diverse
+                cities, including New York City, Los Angeles, Rio de Janeiro, and Mexico City. The
+                region is also known for its rich cultural heritage, including music, art,
+                literature, and
+                cuisine.</p>
+        </text>
+        <text>
+            <p>The American Continent faces a number of challenges, including climate change,
+                economic inequality, and political instability. However, it is also home to some of
+                the world's most innovative and forward-thinking countries, with many of them
+                leading the way in fields
+                such as technology, renewable energy, and sustainable development.</p>
+        </text>
+        <divider bleed="true" />
+        <text>
+            <p>In conclusion, the American Continent is a vast and diverse region that offers a
+                wealth of opportunities and challenges. From the towering mountains of Alaska to the
+                tropical rainforests of Brazil, this incredible landmass is home to some of the
+                world's most unique
+                and fascinating cultures, landscapes, and people.</p>
+        </text>
+    </components>
+</article>

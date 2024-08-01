@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article
+    lang="en"
+    slug="asia"
+    role="article"
+    sponsored="true">
+    <metadata>
+        <title>Asia</title>
+        <description>The Land of Contrasts: Unveiling the Wonders of Asia</description>
+    </metadata>
+    <components>
+        <image
+            role="image"
+            bleed="true"
+            src="bundle://images/asia/hero.jpg" />
+        <text>
+            <p>Stretching from the snow-capped Himalayas in the west to the sun-kissed beaches of
+                Southeast Asia, and from the vibrant streets of Tokyo to the ancient ruins of Angkor
+                Wat, Asia is a continent that embodies the ultimate fusion of tradition and
+                modernity. Home to
+                over 4.5 billion people – more than half of the world's population – Asia is a land
+                of contrasts, where ancient temples stand alongside skyscrapers, and bustling cities
+                meet serene natural landscapes.</p>
+        </text>
+        <text type="title">
+            <p>Geography</p>
+        </text>
+        <text>
+            <p>From the towering mountain ranges of the Himalayas to the vast deserts of Mongolia,
+                Asia's diverse geography is as breathtaking as it is varied. The continent is home
+                to some of the world's longest rivers, including the Yangtze, Yellow, and Mekong,
+                which flow
+                through China, Japan, and Southeast Asia, respectively. The tropical rainforests of
+                Indonesia and Malaysia provide a habitat for incredible biodiversity, while the
+                Arctic tundra in Russia offers a harsh yet majestic landscape.</p>
+        </text>
+        <text type="title">
+            <p>Culture</p>
+        </text>
+        <text>
+            <p>Asian culture is a rich tapestry woven from diverse traditions, languages, and
+                customs. Each country has its unique flavor, shaped by its history, cuisine, and
+                people. From the ancient civilizations of China and Japan to the vibrant street life
+                of India and
+                Thailand, Asia's cultural heritage is a never-ending source of inspiration. The
+                continent is home to some of the world's most revered philosophies, including
+                Buddhism, Taoism, and Confucianism.</p>
+        </text>
+        <text type="title">
+            <p>Cities</p>
+        </text>
+        <text>
+            <p>Asia's cities are bustling metropolises that pulsate with energy and creativity.
+                Tokyo's neon streets, Seoul's K-pop culture, and Hong Kong's financial hub make each
+                city a must-visit destination. The continent's cities are hubs of innovation,
+                entrepreneurship, and
+                artistic expression, attracting visitors from all over the world.</p>
+        </text>
+        <text type="title">
+            <p>Cuisine</p>
+        </text>
+        <text>
+            <p>Asian cuisine is renowned for its rich flavors, aromas, and textures. From the spicy
+                curries of India to the delicate sushi rolls of Japan, every country has its unique
+                culinary traditions. Don't forget the delicious noodles, dumplings, and street food
+                that are an
+                integral part of Asian cuisine.
+            </p>
+        </text>
+        <gallery>
+            <animation type="flash" speed="slow" />
+            <items>
+                <item src="bundle://images/asia/gallery/sushi.jpg" />
+                <item src="bundle://images/asia/gallery/moshi.jpg" />
+                <item src="bundle://images/asie/gallery/rice.jpg" />
+            </items>
+        </gallery>
+        <divider bleed="true" />
+        <text type="blockquote">
+            <p>Asia is a continent that embodies the very essence of human civilization: diversity,
+                creativity, innovation, and beauty. Whether you're interested in history, art,
+                music, literature, or cuisine, Asia has something to offer everyone. So come and
+                experience it for
+                yourself – the land of contrasts awaits!</p>
+        </text>
+    </components>
+</article>
