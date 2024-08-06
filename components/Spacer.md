@@ -1,6 +1,6 @@
 # Spacer
 
-This is a component that is used to add a space between components.
+This component is used to add a space between components.
 
 ## Attributes
 
@@ -11,9 +11,9 @@ This is a component that is used to add a space between components.
 
 ## Elements
 
-| Element                                                 | Description                                                 |
-| :------------------------------------------------------ | :---------------------------------------------------------- |
-| `device` <br/>_[Device](../format/DeviceDescriptor.md)_ | Controls in which device the component should be displayed. |
+| Element                                                 | Description                                                  |
+| :------------------------------------------------------ | :----------------------------------------------------------- |
+| `device` <br/>_[Device](../format/DeviceDescriptor.md)_ | Controls in which devices the component should be displayed. |
 
 ## Example
 
