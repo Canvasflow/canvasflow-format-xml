@@ -16,7 +16,7 @@ This component is used to group components into columns.
 
 | Element                                                 | Description                                                                         |
 | :------------------------------------------------------ | :---------------------------------------------------------------------------------- |
-| `column`                                                | **(Required)** Represent a column, which is going to contain a group of components. |
+| `column`                                                | **(Required)** Represents a column that is going to contain a group of components.  |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_ | Controls in which devices the component should be displayed.                        |
 
 ## Example
