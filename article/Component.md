@@ -1,9 +1,8 @@
 # Article Component
 
-Components are the main object that you use to build your article, and are 
-wrap in the `<components>` element.
+Components are the main object used to build articles.  All components should be written in lowercase and must be wrapped in a `<components>` element.
 
-This are all the components that are supported:
+Below is a list of all supported component types:
 
 | Component                                 | Description                                     |
 | :---------------------------------------- | :---------------------------------------------- |
