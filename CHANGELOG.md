@@ -1,8 +1,16 @@
 # CHANGELOG
 
+## 🏷️ 0.4.1
+
+_November 08, 2024_
+
+✨ Features
+
+- Add support for [Advert](./components/Advert.md) component
+
 ## 🏷️ 0.4.0
 
-_Jul 30, 2024_
+_July 30, 2024_
 
 ✨ Features
 
@@ -16,7 +24,7 @@ _Jul 30, 2024_
 
 ## 🏷️ 0.3.1
 
-_Jul 11, 2023_
+_July 11, 2023_
 
 🐛 Fixed
 
@@ -24,7 +32,7 @@ _Jul 11, 2023_
 
 ## 🏷️ 0.3.0
 
-_Jul 11, 2023_
+_July 11, 2023_
 
 ✨ Features
 
@@ -34,7 +42,7 @@ _Jul 11, 2023_
 
 ## 🏷️ 0.2.0
 
-_Jul 11, 2023_
+_July 11, 2023_
 
 ✨ Features
 
@@ -50,7 +58,7 @@ _Jul 11, 2023_
 
 ## 🏷️ 0.1.0
 
-_Jul 10, 2023_
+_July 10, 2023_
 
 ✨ Features
 
