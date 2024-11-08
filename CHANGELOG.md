@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## 🏷️ 0.4.0
+
+_Jul 30, 2024_
+
+✨ Features
+
+- Add support for new [Article](./Article.md) attributes
+  - `slug`
+  - `role`
+  - `featured`
+  - `sponsored`
+  - `thumbnail`
+- Add support for [Issue Format](./Issue.md)
+
 ## 🏷️ 0.3.1
 
 _Jul 11, 2023_

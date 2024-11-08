@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article
+    lang="en"
+    slug="africa"
+    role="advert">
+    <metadata>
+        <title>Africa</title>
+    </metadata>
+    <components>
+        <image
+            role="photo"
+            bleed="true"
+            unselectable="false"
+            src="bundle://images/africa/advert.jpg" />
+    </components>
+</article>

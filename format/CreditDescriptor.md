@@ -13,6 +13,7 @@ the content inside the text component uses `HTML` syntax.
 | `only-lightbox` <br/> _boolean_ | Attributes that express if the credit should only be displayed when is inside a lightbox |
 
 ## Example
+
 ```xml
 <components>
   <image src="bundle://images/image.jpg">

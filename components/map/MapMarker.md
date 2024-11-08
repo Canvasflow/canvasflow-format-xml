@@ -10,12 +10,14 @@ This component is used to display a marker in the [Map](../Map.md) Component.
 | `longitude` <br/> _number_ | **(Required)** The longitude of the marker. |
 
 
-## Properties
-| Property                                                      | Description                                             |
+## Elements
+
+| Element                                                       | Description                                             |
 | :------------------------------------------------------------ | :------------------------------------------------------ |
 | `caption` <br/>_[Caption](../../format/CaptionDescriptor.md)_ | Control if a caption should be displayed in the content |
 
 ## Example
+
 ```xml
 <components>
   <map latitude="48.85827830746261" longitude="2.2942667208178773">

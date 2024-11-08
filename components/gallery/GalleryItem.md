@@ -13,8 +13,9 @@ This component is used to display image in the [Gallery](../Gallery.md) Componen
 | `src` <br/> _uri_       | **(Required)** The URL of the image file </br></br> Image URL can begin with `http://`, `https://` or `bundle://`. If the image begin with `bundle://`, the image reference must be relative to the `assets` path. |
 
 
-## Properties
-| Property                                                      | Description                                             |
+## Elements
+
+| Element                                                       | Description                                             |
 | :------------------------------------------------------------ | :------------------------------------------------------ |
 | `caption` <br/>_[Caption](../../format/CaptionDescriptor.md)_ | Control if a caption should be displayed in the content |
 | `credit` <br/>_[Credit](../../format/CreditDescriptor.md)_    | Control if a credit should be displayed in the content  |
@@ -22,6 +23,7 @@ This component is used to display image in the [Gallery](../Gallery.md) Componen
 _If the image is inside a gallery component the properties `animation` and `device` are going to be ignored_
 
 ## Example
+
 ```xml
 <components>
   <gallery>

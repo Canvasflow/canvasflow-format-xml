@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article lang="en" sponsored="true" role="advert">
+    <metadata>
+        <title>Space X</title>
+    </metadata>
+    <components>
+        <image
+            role="photo"
+            bleed="true"
+            unselectable="false"
+            src="bundle://space-x.jpg" />
+    </components>
+</article>

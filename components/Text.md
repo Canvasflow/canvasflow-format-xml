@@ -1,24 +1,26 @@
 # Text Component
 
-This is a component that is used to display text content. The content inside the text component use `HTML` syntax and should be wrapped in `<p>` tags.
+This is a component that is used to display text content. The content inside the text component uses `HTML` syntax and should be wrapped in `<p>` tags.
 
 ## Attributes
 
 | Attribute                 | Description                                                                                                                                                                                                                                                     |
 | :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `id` <br/> _string_       | Id of the component                                                                                                                                                                                                                                             |
-| `type` <br/> _string_     | Is the type of the component that is going to be used. If not set is going to be used the value `body` as default. </br> </br>_Possible values: `headline`, `title`, `subtitle`, `intro`, `crosshead`, `byline`, `blockquote`, `footer`, `body`, `text{1-60}`._ |
-| `dropcap` <br/> _boolean_ | This is a value that express if the component should use a drop cap                                                                                                                                                                                             |
-| `bleed` <br/> _boolean_   | This is a value that express if the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turn to `false` if the component is inside a `column`._                                                      |
+| `type` <br/> _string_     | Is the type of the component that is going to be used. If not set the value `body` is used as as default. </br> </br>_Possible values: `headline`, `title`, `subtitle`, `intro`, `crosshead`, `byline`, `blockquote`, `footer`, `body`, `text{1-60}`._ |
+| `dropcap` <br/> _boolean_ | This is a value that expresses whether the component should use a drop cap                                                                                                                                                                                             |
+| `bleed` <br/> _boolean_   | This is a value that expresses whether the component should bleed in the document. _Bleed is only valid at the root level, bleed will be automatically be turned to `false` if the component is inside a `column`._                                                      |
 
-## Properties
-| Property                                                          | Description                                                 |
+## Elements
+
+| Element                                                           | Description                                                 |
 | :---------------------------------------------------------------- | :---------------------------------------------------------- |
 | `animation` <br/> _[Animation](../format/AnimationDescriptor.md)_ | Applies animation to the component                          |
 | `device` <br/>_[Device](../format/DeviceDescriptor.md)_           | Controls in which device the component should be displayed. |
 
 
 ## Example
+
 ```xml
 <article>
   <components>
