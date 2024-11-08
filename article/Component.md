@@ -8,6 +8,7 @@ Below is a list of all supported component types:
 | :---------------------------------------- | :---------------------------------------------- |
 | [Text](./../components/Text.md)           | Used to display text content                    |
 | [Image](./../components/Image.md)         | Used to display images                          |
+| [Advert](./../components/Advert.md)       | Used to display adverts                         |
 | [Video](./../components/Video.md)         | Used to display videos                          |
 | [Gallery](./../components/Gallery.md)     | Used to display group of images                 |
 | [Audio](./../components/Audio.md)         | Used to display audio                           |
