@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<article
+    lang="en"
+    slug="europe"
+    role="article">
+    <metadata>
+        <title>Europe</title>
+        <description>The Heart of the World: A Glimpse into Europe</description>
+    </metadata>
+    <components>
+        <text type="headline">
+            <p>Europe</p>
+        </text>
+        <divider bleed="true" />
+        <text>
+            <p>Tucked away in the northwest corner of the globe, Europe is a continent like no
+                other. Comprising 50 countries, spanning over 10 million square kilometers, and
+                boasting a rich history dating back to the ancient Greeks, Romans, and Vikings,
+                Europe has been the
+                epicenter of human civilization for millennia.</p>
+        </text>
+        <gallery role="mosaic" bleed="true">
+            <items>
+                <item src="bundle://images/europe/gallery/turkiye.jpg" />
+                <item src="bundle://images/europe/gallery/spain.jpg" />
+                <item src="bundle://images/europe/gallery/portugal.jpg" />
+            </items>
+            <caption>Countries</caption>
+        </gallery>
+        <container>
+            <text type="title">
+                <p>Geography</p>
+            </text>
+            <text type="text5">
+                <p>From the snow-capped Alps in Switzerland to the sun-kissed Mediterranean beaches
+                    of
+                    Greece and Italy, Europe's diverse landscape is as varied as it is breathtaking.
+                    The
+                    continent's terrain ranges from rolling hills and verdant forests to windswept
+                    moors
+                    and towering
+                    mountain ranges. The mighty Danube River flows through 10 countries, while the
+                    majestic Rhine River carves its way through Germany and Switzerland.</p>
+            </text>
+            <text type="title">
+                <p>Culture</p>
+            </text>
+            <text type="text5">
+                <p>Europe is a melting pot of cultures, languages, and traditions. Each country has
+                    its
+                    unique flavor, shaped by its history, cuisine, and people. The continent is home
+                    to
+                    some of the world's most famous art, music, literature, and cinema. From the
+                    works
+                    of Leonardo da
+                    Vinci and Michelangelo in Italy to the masterpieces of Vincent van Gogh in the
+                    Netherlands, Europe's artistic heritage is unparalleled.</p>
+            </text>
+            <text type="title">
+                <p>Cities</p>
+            </text>
+            <text type="text5">
+                <p>Europe's cities are bustling metropolises that pulsate with energy and
+                    creativity.
+                    London's iconic landmarks, Paris' romantic atmosphere, Rome's ancient history,
+                    and
+                    Amsterdam's vibrant culture make each city a must-visit destination. The
+                    continent's
+                    cities are hubs
+                    of innovation, entrepreneurship, and artistic expression, attracting visitors
+                    from
+                    all over the world.
+                </p>
+            </text>
+            <text type="title">
+                <p>Cuisine</p>
+            </text>
+            <text type="text5">
+                <p>European cuisine is renowned for its rich flavors, aromas, and textures. From the
+                    hearty stews and roasted meats of Eastern Europe to the pasta dishes and pizzas
+                    of
+                    Italy, every country has its unique culinary traditions. Don't forget the
+                    delicious
+                    pastries, cakes,
+                    and chocolates that are an integral part of European baking culture.</p>
+            </text>
+        </container>
+        <spacer />
+        <text type="title">
+            <p>Conclusion</p>
+        </text>
+        <text type="text6">
+            <p>Europe is a continent that embodies the very essence of human civilization:
+                creativity, innovation, diversity, and beauty. Whether you're interested in history,
+                art, music, literature, or cuisine, Europe has something to offer everyone. So come
+                and experience it for
+                yourself – the heart of the world awaits!</p>
+        </text>
+    </components>
+</article>

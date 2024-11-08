@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<issue
+    lang="en"
+    slug="continents"
+    thumbnail="bundle://world.jpg">
+    <metadata>
+        <title>World Continents</title>
+        <description>A glance of the continents in the world</description>
+        <date type="creation">2024-10-31</date>
+        <date type="release">2024-10-31</date>
+    </metadata>
+    <toc>
+        <item href="article://article-1.xml">
+            <pages>
+                <page src="bundle://pages/america/1.jpg" />
+                <page src="bundle://pages/america/2.jpg" />
+            </pages>
+        </item>
+        <item href="article://article-2.xml">
+            <pages>
+                <page src="bundle://pages/europe/1.jpg" />
+            </pages>
+        </item>
+        <item href="article://article-3.xml">
+            <pages>
+                <page src="bundle://pages/asia/1.jpg" />
+            </pages>
+        </item>
+        <item href="article://article-4.xml" />
+    </toc>
+</issue>

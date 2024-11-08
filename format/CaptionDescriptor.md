@@ -13,6 +13,7 @@ the content inside the text component use `HTML` syntax.
 | `only-lightbox` <br/> _boolean_ | Attributes that express if the caption should only be displayed when is inside a lightbox |
 
 ## Example
+
 ```xml
 <components>
   <image src="bundle://images/image.jpg">
