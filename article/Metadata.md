@@ -5,13 +5,14 @@ to the article but do not required to be rendered.
 
 ## Elements
 
-| Element                     | Description                         |
-| :-------------------------- | :---------------------------------- |
-| `title` <br/> _string_      | **(Required)** Title of the article |
-| `description` <br/>_string_ | Description of the article          |
-| `author` <br/>_string_      | Author of the article               |
-| `canonical` <br/>_URL_      | Canonical URL for the article       |
-| `note` <br/>_string_        | Notes regarding for the article     |
+| Element                     | Description                                                                   |
+| :-------------------------- | :---------------------------------------------------------------------------- |
+| `title` <br/> _string_      | **(Required)** Title of the article                                           |
+| `description` <br/>_string_ | Description of the article                                                    |
+| `author` <br/>_string_      | Author of the article                                                         |
+| `canonical` <br/>_URL_      | Canonical URL for the article                                                 |
+| `note` <br/>_string_        | Notes regarding for the article                                               |
+| [Meta](./Meta.md)           | Represents metadata that cannot be represented by other meta-related elements |
 
 ## Example
 
