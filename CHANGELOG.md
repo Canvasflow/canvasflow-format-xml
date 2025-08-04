@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 🏷️ 1.0.0
+
+_August 04, 2025_
+
+✨ Features
+
+- Add support for [Meta](./article/Meta.md) element in article
+
 ## 🏷️ 0.4.1
 
 _November 08, 2024_
