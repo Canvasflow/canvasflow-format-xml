@@ -26,6 +26,10 @@ Below is a list of all supported attribute elements:
 ```xml
 <metadata>
   <meta name="company" content="ACME">
+  <meta name="volume" content="3" type="number">
+  <meta name="keywords" content="tech, apple, ios" type="list">
+  <meta name="data" content="{\"sku\": 1234567}" type="json">
+  <meta name="description" content="<b>Bold</b> content" type="html">
   <meta name="created" content="2007-01-09" type="date"/>
   <meta name="modified" content="2025-08-04T00:55:31.820Z" type="datetime">
 </metadata>
