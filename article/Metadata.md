@@ -5,14 +5,14 @@ to the article but do not required to be rendered.
 
 ## Elements
 
-| Element                     | Description                                                                   |
-| :-------------------------- | :---------------------------------------------------------------------------- |
-| `title` <br/> _string_      | **(Required)** Title of the article                                           |
-| `description` <br/>_string_ | Description of the article                                                    |
-| `author` <br/>_string_      | Author of the article                                                         |
-| `canonical` <br/>_URL_      | Canonical URL for the article                                                 |
-| `note` <br/>_string_        | Notes regarding for the article                                               |
-| [Meta](./Meta.md)           | Represents metadata that cannot be represented by other meta-related elements |
+| Element                           | Description                                                           |
+| :-------------------------------- | :-------------------------------------------------------------------- |
+| `title` <br/> _string_            | **(Required)** Title of the article                                   |
+| `description` <br/>_string_       | Description of the article                                            |
+| `author` <br/>_string_            | Author of the article                                                 |
+| `canonical` <br/>_URL_            | Canonical URL for the article                                         |
+| `note` <br/>_string_              | Notes regarding for the article                                       |
+| [`meta`](./Meta.md)<br/>_element_ | Represents metadata that other meta-related elements cannot represent |
 
 ## Example
 
@@ -26,11 +26,13 @@ to the article but do not required to be rendered.
   sponsored="true"
   thumbnail="bundle://thumb.jpg">
 	<metadata>
-		<title>This is an example of the title</title>
-		<description> Description of the article </description>
-		<author>Jane Doe</author>
-		<canonical>https://google.com</canonical>
-		<note>Example of a note</note>
+      <title>This is an example of the title</title>
+      <description> Description of the article </description>
+      <author>Jane Doe</author>
+      <canonical>https://google.com</canonical>
+      <note>Example of a note</note>
+      <meta name="company" content="ACME">
+      <meta name="modified" content="2025-08-04" type="date">
 	</metadata>
 </article>
 ``` 
